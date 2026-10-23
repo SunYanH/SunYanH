@@ -98,3 +98,6 @@ Git、PS、Office套件；大模型应用；空间数据处理；项目申报书
 - 📍 Location：Chengdu, Sichuan, China
 
 > 🔍 求职意向：应用工程师 / GIS工程师 / 数字孪生相关技术岗位 / 产品经理相关
+
+📄 <a href="Sun_Yanhe_Resume_CN_new.pdf" target="_blank">中文简历</a>
+🌐 <a href="Sun_Yanhe_Resume_EN.pdf" target="_blank">English Resume</a>
